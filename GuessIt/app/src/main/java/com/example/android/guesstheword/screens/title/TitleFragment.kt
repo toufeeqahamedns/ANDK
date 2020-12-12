@@ -25,6 +25,7 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.example.android.guesstheword.R
 import com.example.android.guesstheword.databinding.TitleFragmentBinding
+import com.example.android.guesstheword.screens.game.GameViewModel
 
 /**
  * Fragment for the starting or title screen of the app
